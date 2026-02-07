@@ -1,0 +1,8 @@
+{
+  "name": "team-plan",
+  "description": "Scout-then-plan workflow for Agent Teams. Gathers context with subagents, enters plan mode to design team strategy, then executes with an agent team.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhangxin840"
+  }
+}

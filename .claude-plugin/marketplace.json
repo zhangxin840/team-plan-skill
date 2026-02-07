@@ -1,0 +1,19 @@
+{
+  "name": "team-plan-skills",
+  "owner": {
+    "name": "zhangxin840"
+  },
+  "metadata": {
+    "description": "Scout-then-plan workflow skill for Claude Code Agent Teams"
+  },
+  "plugins": [
+    {
+      "name": "team-plan",
+      "source": "./plugins/team-plan",
+      "description": "Scout-then-plan workflow for Agent Teams. Gathers context with subagents, enters plan mode to design team strategy, then executes with an agent team.",
+      "version": "1.0.0",
+      "keywords": ["agent-teams", "plan-mode", "workflow", "multi-agent"],
+      "category": "workflow"
+    }
+  ]
+}
